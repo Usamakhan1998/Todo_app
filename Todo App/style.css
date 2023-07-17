@@ -1,0 +1,40 @@
+.input{
+    background-color: thistle;
+    color: black;
+    width: 300px;
+    height: 20px;
+}
+.te{
+    text-align: center;
+    margin-top: 50px;
+    color: chartreuse;
+    font-size: xx-large;
+}
+
+.st{
+    text-align: center;
+    margin-top: 50px;
+}
+.btn{
+    background-color: thistle;
+    color: black;
+    font-size: 15px;
+    font-style: oblique;
+    margin-left: 10px;
+}
+
+.bt{
+    background-color: thistle;
+    color: black;
+    font-size: 15px;
+    font-style: oblique;
+    height: 30px;
+    
+}
+.text{
+    text-align: center;
+    text-shadow: gray;
+    color: rebeccapurple;
+    font-style: oblique;
+    font-size: 20px;
+}
